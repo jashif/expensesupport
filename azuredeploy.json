@@ -39,7 +39,7 @@
     },
     "Project": {
       "type": "string",
-      "defaultValue": "expsupportnew"
+      "defaultValue": "ExpenseSupport"
     },
     "MicrosoftAppId": {
       "type": "string"
