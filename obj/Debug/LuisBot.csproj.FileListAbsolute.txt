@@ -35,6 +35,5 @@ E:\Projects\expsupportnew\bin\fr\Microsoft.Bot.Builder.resources.dll
 E:\Projects\expsupportnew\bin\ja\Microsoft.Bot.Builder.resources.dll
 E:\Projects\expsupportnew\bin\ru\Microsoft.Bot.Builder.resources.dll
 E:\Projects\expsupportnew\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
-E:\Projects\expsupportnew\obj\Debug\LuisBot.csprojResolveAssemblyReference.cache
 E:\Projects\expsupportnew\obj\Debug\LuisBot.dll
 E:\Projects\expsupportnew\obj\Debug\LuisBot.pdb
