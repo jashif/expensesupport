@@ -1,3 +1,4 @@
+[![Board Status](https://jashprojects.visualstudio.com/fe291232-0777-4148-81d1-c8b8b596b64d/8d4c01cb-4919-4da0-94e3-698acb5081b6/_apis/work/boardbadge/e8d0b992-5fcb-467f-bb7a-56f7b7dd4990)](https://jashprojects.visualstudio.com/fe291232-0777-4148-81d1-c8b8b596b64d/_boards/board/t/8d4c01cb-4919-4da0-94e3-698acb5081b6/Microsoft.RequirementCategory)
 # LUIS Bot Sample
 
 A sample bot using LuisDialog to integrate with a LUIS.ai application.
